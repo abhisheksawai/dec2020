@@ -1,0 +1,14 @@
+2021-03-07 10:51:11,495 [main] INFO log demo - ----------------Execution Started -----------------------
+2021-03-07 10:51:15,642 [main] INFO log demo - website launched rediff 
+2021-03-07 10:51:17,599 [main] INFO log demo - got the total col count here and it is --> 5
+2021-03-07 10:51:17,602 [main] INFO log demo - company to search --> National Fertilizers
+2021-03-07 10:53:17,366 [main] INFO March Regression Release 7.3 - ----------------Execution Started -----------------------
+2021-03-07 10:53:21,350 [main] INFO March Regression Release 7.3 - website launched rediff 
+2021-03-07 10:53:28,853 [main] INFO March Regression Release 7.3 - got the total col count here and it is --> 5
+2021-03-07 10:53:28,854 [main] INFO March Regression Release 7.3 - company to search --> National Fertilizers
+2021-03-07 10:53:33,453 [main] INFO March Regression Release 7.3 - ----------------Execution End -----------------------
+2021-03-07 10:59:12,412 [main] INFO March Regression Release 7.3 - ----------------Execution Started -----------------------
+2021-03-07 10:59:21,510 [main] INFO March Regression Release 7.3 - website launched rediff 
+2021-03-07 10:59:22,960 [main] INFO March Regression Release 7.3 - got the total col count here and it is --> 5
+2021-03-07 10:59:22,961 [main] INFO March Regression Release 7.3 - company to search --> National Fertilizers
+2021-03-07 10:59:23,961 [main] INFO March Regression Release 7.3 - ----------------Execution End -----------------------
